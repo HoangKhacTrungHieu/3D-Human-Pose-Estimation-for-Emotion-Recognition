@@ -145,7 +145,18 @@ Key parameters (all tunable):
 | `min_height_ratio` | 0.35 | Minimum bbox height ratio for eligibility |
 | `max_jump_ratio` | 0.25 | Max bbox-centre jump allowed for continuity match |
 
+---
 
+## Visualization
+
+These are some example frames from EWalk dataset videos that shows the 2D pose estimation (YOLO26) and 3D pose estimation (MotionAGFormer) results:
+
+<p align="center"><img src="figure/ewalk_video_001.jpg" width="60%" alt="Sample output 1" /></p>
+<p align="center"><img src="figure/ewalk_video_002.jpg" width="60%" alt="Sample output 2" /></p>
+<p align="center"><img src="figure/ewalk_video_003.jpg" width="60%" alt="Sample output 3" /></p>
+<p align="center"><img src="figure/ewalk_video_004.jpg" width="60%" alt="Sample output 4" /></p>
+
+---
 
 ## Citation
 
